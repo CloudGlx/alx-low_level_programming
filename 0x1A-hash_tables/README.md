@@ -1,23 +1,33 @@
-# 0x1A. C - Hash tables
+0x1A. C - Hash tables
+C
+Algorithm
+Data structure
+ By: Julien Barbier
+ Weight: 1
+ Ongoing second chance project - started Jun 8, 2023 6:00 AM, must end by Jun 15, 2023 6:00 AM
+ An auto review will be launched at the deadline
+In a nutshell…
+Auto QA review: 0.0/47 mandatory & 0.0/21 optional
+Altogether:  0.0%
+Mandatory: 0.0%
+Optional: 0.0%
+Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
+Resources
+Read or watch:
 
-This Project was done during Full Stack Software Engineering studies at ALX school The aim is to learn how to implement Hash Tables with **C language**
+What is a HashTable Data Structure - Introduction to Hash Tables , Part 0
+Hash function
+Hash table
+All about hash tables
+why hash tables and not arrays
+Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## Technologies
-* C files are complied using `gcc 4.8.4`
-* C files are written according to C90 standard
-* tested on Ubuntu 14.04 LTS
-
-## Files
-
-All of the following files are programs written in C:
-
-| Filename | Description |
-| -------- | ----------- |
-| `0-hash_table_create.c` | Function that creates a hash table |
-| `1-djb2.c` | Function that executes the djb2 algorithm |
-| `2-key_index.c` | Function that returns the index of a key |
-| `3-hash_table.c` | Function that adds an element to the hash table |
-| `4-hash_table_get.c` | Function that retrieves a value associated with a key |
-| `5-hash_table_print.c` | Function that prints a hash table |
-| `6-hash_table_delete.c` | Function that deletes a hash table |
-| `100-sorted_hash_table.c` | C file with some functions that implements a hash table with a sorted linked list |
+General
+What is a hash function
+What makes a good hash function
+What is a hash table, how do they work and how to use them
+What is a collision and what are the main ways of dealing with collisions in the context of a hash table
+What are the advantages and drawbacks of using hash tables
+What are the most common use cases of hash tables
+Copyright - Plagiarism
